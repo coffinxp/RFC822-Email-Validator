@@ -35,6 +35,8 @@ $ python3 rfc822_email_validator.py
 Enter email address: "><script>alert(1)</script>@test.com
 RFC822 valid: NO
 
+![Screenshot (1397)](https://github.com/user-attachments/assets/6a3ab9a6-efac-43f7-b315-061a97968821)
+
 Security Testing
 ----------------
 You can use this tool to test how your application handles potentially malicious email input, such as XSS payloads.
