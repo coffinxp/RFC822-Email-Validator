@@ -14,8 +14,8 @@ Features
 Usage
 -----
 1. Clone the repository or download the script:
-   git clone https://github.com/coffinxp/rfc822-email-validator.git
-   cd rfc822-email-validator
+   git https://github.com/coffinxp/RFC822-Email-Validator.git)
+   cd RFC822-Email-Validator
 
 2. Run the script:
    python3 rfc822_email_validator.py
