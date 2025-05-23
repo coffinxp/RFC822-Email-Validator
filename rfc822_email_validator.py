@@ -12,6 +12,7 @@ RFC822_REGEX = re.compile(
 )
 
 def is_rfc822_valid(email):
+    
     return bool(RFC822_REGEX.match(email))
 
 if __name__ == "__main__":
